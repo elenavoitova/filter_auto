@@ -69,12 +69,4 @@ describe('Lets testing', function() {
      await page.quit();
    });
 
-
-
-
-
-
-  // it('quit', async function(){
-  //   await page.quit();
-  // });
 });
